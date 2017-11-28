@@ -16,6 +16,7 @@ html {
 body {
   font-size: 1.6rem;
   font-family: "Open Sans", sans-serif;
+  padding: 12px 16px; /* Some padding */
   color: #2c343b;
   background-color: #f2f2f2;
 }
