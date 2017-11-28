@@ -709,10 +709,6 @@ Style all font awesome icons
     color: white;
 }
 
-/* Google+ */
-.fa-plus-google {
-    background: #3B5998;
-    color: white;
 }
 
 /* Twitter */
@@ -721,10 +717,11 @@ Style all font awesome icons
     color: white;
 }
 
-/* Email */
-.fa-envelope {
-    background: #3B5998;
+/* Google+ */
+.fa-plus-google {
+    background: #dd4b39;
     color: white;
+
 }
 
 /* LinkedIn */
