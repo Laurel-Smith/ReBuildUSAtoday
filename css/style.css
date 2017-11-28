@@ -708,14 +708,15 @@ Inline social share buttons
 
 /* Facebook */
 .fa-facebook {
-    background: #3B5998;
+    background: #ffffff;
+    opacity: .4;
     color: white;
 }; 
     color: white;
 }
 
 /* Google+ */
-.fa-google-plus {
+.fa-google {
     background: #55ACEE;
     color: white;
 }
