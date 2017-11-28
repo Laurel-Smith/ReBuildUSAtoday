@@ -708,16 +708,13 @@ Inline social share buttons
 
 /* Facebook */
 .fa-facebook {
-    background: #ffffff;
-    opacity: .4;
-    color: white;
-}; 
+    background: #3366cc;
     color: white;
 }
 
 /* Google+ */
-.fa-google {
-    background: #55ACEE;
+.fa-google-plus {
+    background: #ff1a1a;
     color: white;
 }
 
@@ -729,19 +726,19 @@ Inline social share buttons
 
 /* Email */
 .fa-email {
-    background: #3B5998;
+    background: #00e64d;
     color: white;
 }
 
 /* LikenIn */
 .fa-linkedin {
-    background: #3B5998;
+    background: #6699ff;
     color: white;
 }
 
 /* Instagram */
 .fa-instagram {
-    background: #3B5998;
+    background: #336699;
     color: white;
 }
 
