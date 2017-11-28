@@ -693,7 +693,7 @@ Inline social share buttons
 .fa {
     padding: 20px;
     font-size: 30px;
-    width: 50px;
+    width: 50px; 
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -708,7 +708,7 @@ Inline social share buttons
 
 /* Facebook */
 .fa-facebook {
-    background: 
+    background: #ffffff; 
     color: white;
 }
 
