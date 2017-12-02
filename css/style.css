@@ -65,6 +65,10 @@ Main Components
     margin: 23px 0 0 5%;
 
   }
+  .imgresponsive{
+     z-index:10!important;
+     position:relative;
+  }
 }
 
 .cd-primary-nav {
