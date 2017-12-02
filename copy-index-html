@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
   	
-	<title>ReBuildUSAtoday</title>
+	<title>Hero Slideshow</title>
 </head>
 <body>
 	<header class="cd-header">
@@ -18,114 +18,27 @@
 
 		<nav class="cd-primary-nav">
 			<ul>
+				<li><a href="#0">Home</a></li>
+				<li><a href="#0">Portfolio</a></li>
 				<li><a href="#0">Contact</a></li>
-				<li><a href="#0">Donate</a></li>
-				<li><a href="#0">Join Us</a></li>
-				<li><a href="#0">Volunteer</a></li>
 			</ul>
 		</nav> <!-- .cd-primary-nav -->
 	</header>
 
 	<section class="cd-hero">
-		<ul class="cd-hero-slider autoplay">
+		<ul class="cd-hero-slider">
 			<li class="selected">
 				<div class="cd-full-width">
-					<h2>ReBuildUSAtoday!</h2>
-					<p>Where is our yesterday? And the way we use to be!
-                                        What happened to our past? With our glories everywhere!
-                                        All over the world! All over the world!</p>
-				<p>
-					<a href="http://smithieforpresident.com/volunteer/" class="cd-btn">We need candidates to fill 3078 county and congressional seats nationwide. Sign up to help ReBuildUSAtoday!</a>
-				</div> <!-- .cd-full-width -->
-			</li>
-
-			<li>
-				<div class="cd-full-width">
-					<h2>What we say!</h2>
-					<p>We seek for our nation, and hope for all people: individual freedom in the framework of a just society and political 
-					freedom in the framework of meaningful participation by all citizens. We are bound by the United States constitution.</p>
-					<a href="http://smithieforpresident.com/volunteer/" class="cd-btn">We need candidates to fill 3078 county and congressional seats nationwide. Sign up to help ReBuildUSAtoday!</a>
-				</div> <!-- .cd-full-width -->
-
-			</li>
-			
-			<li>
-				<div class="cd-full-width">
-					<h2>Our Party - ThePILGRIMS Alliance Party of America</h2>
-					<p>First step towards making America great again is to rebuild it. I am signed up to ReBuildUSAtoday! WHAT ABOUT YOU?</p>
-					<a href="http://pilgrimsalliance.us/join-us/" class="cd-btn">We need candidates to fill 3078 county and congressional seats nationwide. Sign up to help ReBuildUSAtoday!</a>
-				</div> <!-- .cd-full-width -->
-
-			</li>
-
-			<li>
-				<div class="cd-full-width">
-					<h2>Our Presidential nominee said,</h2>
-					<p>"About our destiny as a nation: I believe should not stop at Oregon because a body of water - the Pacific is in the way. No. 
-					We have the means (physical materials, resources and laws) to push and to explore further from where Lewis and Clark stopped. 
-					Please join my plan for the Pacific, south Asia and beyond. Come, let's pledge ourselves to make this an open and honest 
-					endeavor.  Let's show the world we can conduct public affairs in a manner worthy of a society that is full of free people - of all ages and of different races."</p>
-					<a href="http://smithieforpresident.com" class="cd-btn">Join me, let's ReBuildUSAtoday!</a>
-					<a href="#0" class="cd-btn secondary">Learn More</a>
-				</div> <!-- .cd-full-width -->
-
-				</div> <!-- .cd-full-width.cd-img-container -->
-			</li>
-
-			<li>
-				
-				<div class="cd-half-width cd-img-container">
-					<img src="assets/tech-2.jpg" alt="tech 2">
-				</div> <!-- .cd-half-width.cd-img-container -->
-
-				<div class="cd-full-width">
-					<h2>About Coal states</h2>
-					<p>"Coal and coal producing states have always been there for us since the revolutionary days. These states could still be the basket of the nation for the next fifty years. As the 46th President, i'll borrow a leaf from King Lear's Shakespeare - 
-					sponsor a Congressional charter and public land bonds, that would allow federally owned corporations in these states (from middle America, to the Gulf coast, and California. Focus will be to use the creation of small businesses, technology, 
-					water farming and the developments of millennial defense structures.  These will will spur creation of local jobs, new careers and enliven a vigorous economic activity/development in the areas of material technology, agriculture, 
-					natural disaster control, new energy and transportation.  Also, the education in each of these regions would be made to reflect the need of local schools, trade and technical schools, and higher institutions."</p>
-					<a href="#0" class="cd-btn">Start</a>
-					<a href="https://rebuildusatoday.quora.com" class="cd-btn secondary">Tap here to learn more about how to ReBuildUSAtoday</a>
-				</div> <!-- .cd-full-width -->
-				
-			</li>
-
-			<li class="cd-bg-video">
-				<div class="cd-full-width">
-					<h2>The future of our defense</h2>
-					<p>Long endurance weapons, aerial/spectrum denial platforms and different types sub-surface weapons with passive anti-buoyancy capability are the biggest threat to the American homeland now.  And they are in the hands of aliies and foes in the Pacific. 
-					To counter these I propose a new military, a new mindset and a totally new doctrine. We need newly conceived weapons, new weapon platforms and new technology to face this type of challenge. All we have as at know are Reagan-era weapons. They are good 
-					for defending Europe and the Middle East.  But are they good in the Pacific, No?  Are they good for the homeland, No?.</p>
-					<a href="thhps://smithieforpresident.com/defense/" class="cd-btn">Tap here to learn more about this plan</a>
-				</div> <!-- .cd-full-width -->
-
-				<div class="cd-bg-video-wrapper" data-video="assets/video/video">
-					<!-- video element will be loaded using jQuery -->
-				</div> <!-- .cd-bg-video-wrapper -->
-			</li>
-
-			<li>
-				<div class="cd-full-width">
-					<h2>Healthcare reform we support</h2>
-					<p>Truth is, a single-payer healthcare system puts money back into your pocket. Well, my plan will not only put money back into everyones' pocket, it will help protect family budgets - so you know what to do to make tough times easeir on you, your friends and your beneficiaries.</p>
-					<a href="#0" class="cd-btn">Start</a>
-					<a href="#0" class="cd-btn secondary">Learn More</a>
-				</div> <!-- .cd-full-width -->
-			</li>
-			
-			<li class="selected">
-				<div class="cd-full-width">
-					<h2>Education reform we support</h2>
-					<p>"Where is our yesterday? And the way we use to be!" Best way to shape and sharpen up our education system is to introduce a tenure system into our colleges of higher institutions.  Create a system that will instill an independent reseach capability into the minds of under graduate students.<p> 
-                                        ...</p>
+					<h2>Hero slider</h2>
+					<p>A simple, responsive slideshow in CSS &amp; jQuery.</p>
 					<a href="http://codyhouse.co/?p=675" class="cd-btn">Article &amp; Download</a>
 				</div> <!-- .cd-full-width -->
 			</li>
 
 			<li>
 				<div class="cd-half-width">
-					<h2>Millennial Economy we support</h2>
-					<p>gvv...........  njn</p>
+					<h2>Slide title here</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In consequatur cumque natus!</p>
 					<a href="#0" class="cd-btn">Start</a>
 					<a href="#0" class="cd-btn secondary">Learn More</a>
 				</div> <!-- .cd-half-width -->
@@ -141,21 +54,17 @@
 				</div> <!-- .cd-half-width.cd-img-container -->
 
 				<div class="cd-half-width">
-					<h2>Foreign policy we support</h2>
-					<p>As our candidate for President said, "put an end to Islamic Arabism of the middle east by revisiting San Remo resolution.  Use this resolution to bring back a process of 3R’s – reckoning, recognizing and re-introducing 
-					displaced ethnic communities back to their ancestral homes in the middle east.  …say, Mesopotamians, Phoenicians and the people of Levant, back to their ancestral homes like we did the Jews, back to the land of Israel.
-					Start a campaign to make the region (Middle East) nuclear free. And all designated heritage sites, weapon free. Please note, Iran is not in the Middle East, so it is not affected by this policy.
-                                        For now, the creation of a Christian space in the Middle East is important. For this, I have my site set on the Sinai Peninsula and the Negev. I will use American power to create and secure this 
-					Biblical heritage enclave for persecuted Christians all over the Middle East to migrate to. And as said before, rather than give aid to Israel and Egypt, I will use it to create a Christian state 
-					between both countries with the strait of Tiran and Saudi Arabia to the south of it.</p>
-					<a href="http://smithieforpresident.com/foreign-policy/" class="cd-btn secondary">Read more...</a>
+					<h2>Slide title here</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In consequatur cumque natus!</p>
+					<a href="#0" class="cd-btn">Start</a>
+					<a href="#0" class="cd-btn secondary">Learn More</a>
 				</div> <!-- .cd-half-width -->
 				
 			</li>
 
 			<li class="cd-bg-video">
 				<div class="cd-full-width">
-					<h2>Water</h2>
+					<h2>Slide title here</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, explicabo.</p>
 					<a href="#0" class="cd-btn">Learn more</a>
 				</div> <!-- .cd-full-width -->
@@ -167,7 +76,7 @@
 
 			<li>
 				<div class="cd-full-width">
-					<h2>Become a sponsor</h2>
+					<h2>Slide title here</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, explicabo.</p>
 					<a href="#0" class="cd-btn">Start</a>
 					<a href="#0" class="cd-btn secondary">Learn More</a>
@@ -180,59 +89,24 @@
 				<span class="cd-marker item-1"></span>
 				
 				<ul>
-					<li class="selected"><a href="#0">Who we are</a></li>
-					<li><a href="#0">What we say</a></li>
-					<li><a href="#0">Coal</a></li>
+					<li class="selected"><a href="#0">Intro</a></li>
+					<li><a href="#0">Tech 1</a></li>
+					<li><a href="#0">Tech 2</a></li>
 					<li><a href="#0">Video</a></li>
-					<li><a href="#0">Defense</a></li>
-					<li><a href="#0">Farming</a></li>
-					<li><a href="#0">New Military</a></li>
+					<li><a href="#0">Image</a></li>
 				</ul>
 			</nav> 
 		</div> <!-- .cd-slider-nav -->
 	</section> <!-- .cd-hero -->
 
 	<main class="cd-main-content">
-		
-			<!-- Add icon library -->
-		<a href="https://twitter.com/intent/tweet?url=https://laurel-smith.github.io/ReBuildUSAtoday&text=We can only make America great again if we ReBuildUSAtoday! I'm signed up to ReBuildUSAtoday! What about you?...&via=the46th_">Twitter</a>
-		<a href="https://facebook.com/sharer.php?u=https://laurel-smith.github.io/ReBuildUSAtoday/">Facebook</a>
-		<a href="https://plus.google.com/share?url=https://laurel-smith.github.io/ReBuildUSAtoday/">Google+</a>
-		<a href="https://instagram.com/share?url=https://laurel-smith.github.io/ReBuildUSAtoday/">Instagram</a>
-		<a href="https://linkedin.com/share?url=https://laurel-smith.github.io/ReBuildUSAtoday/">Linkedin</a>
-		<a href="mailto:?subject=La Alianza De Peregrinos &body=We can only make America great again if we ReBuildUSAtoday! I'm signed up to ReBuildUSAtoday! What about you? https://https://laurel-smith.github.io/ReBuildUSAtoday" target="_blank" class="btn share-btn email">Email</a>
-	</a>
 		<p>
-			Dear American,
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit veniam quisquam, rem illum dicta cumque, voluptate fugiat impedit beatae rerum ratione, voluptates nisi magni delectus ab, eaque atque iste. Molestias incidunt nemo veniam alias nam nisi distinctio optio error architecto odit! Illo dicta nulla fugiat distinctio laudantium, corrupti eum unde.
 		</p>
 
 		<p>
-			RebuildUSA.today is a heritage focused movement, a hybrid PAC and a socio-political welfare organization that organically arose out of the need to politically engage young Americans and involve first time voters in our political process more than ever.  We believe it is possible to RebuildUSAtoday and we believe this is the best time to do it.  We also believe the best way to do it is by embracing technology 
-			more than we do now.</p>  
-			
-			<p>That is why we partnered with The PILGRIMS Alliance Party of the United States (be a PAL) in their campaign to vigorously ReBuildUSAtoday with technology. Upgrade aging infrastructures nationwide. Create smart cities. Deploy ambience technology and ambience intelligence all over the United States. And also to get every single American to embrace the new age of American energy.</p>		
-	
-			<p>As at now, no single “builder” exists; instead, RebuildUSA.today is made up of individual groups (Radical Republicans, Democrats, Independents, Millennials, Libertarians, Greens and Working Families Party) who share common values about repurposing America, rebuilding America and reshaping America’s values – with respect for security, the original meaning of the Constitution, fiscal responsibility, and most of all returning 
-			political power to the will of the American people.</p>
-			
-			<p>For now we are offering a platform that not only provide support but also encourage Veterans to run for 3078 county, state and congressional seats. We cannot do it all alone.  We need your help to enable grassroots support for women, teachers, young graduates, farmers and field a new generation of young, dynamic Americans from all backgrounds as candidates for 3078 seats for on-coming elections - from 2018 onwards.</p>
-	
-			<p>So if you are interested in running for an office, please feel free to fill out the form on our website or contact us via email.  If you are a Veteran, a Sergeant, a Master Sergeant or a proud possessor of a Presidential Warrant, please step forward and sign up with us - to run for Congress or sponsor other Veterans who chose to run for office on our ticket.</p>
-	
-			<p>You can also volunteer or donate to help us in our quest to engage and to serve the American people. And don’t forget to make it a duty to inform fellow friends, family, colleagues and co-workers about this campaign.</p>
-
-			<p>Sincerely,</p>
-
-			<p>Abbey Samuel Laurel-Smith</br> 
-			Founder, Chair and Acting Secretary</br>
-			ReBuildUSAtoday and The PILGRIMS Alliance Party of America (La Alianza De Peregrinos de los Estados Unidos)</br>
-			<font color="red">We need campaign offices, local branches and access to debate venues nationwide.<br/>
-			https://laurel-smith.github.io/ReBuildUSAtoday  https://laurel-smith.github.io/ThePILGRIMSAllianceParty</br>
-			https://laurel-smith.github.io/LaAlianzaDePeregrinos  http://rebuildusa.today  http://pilgrimsalliance.us</font></p>
-
-			Follow at: @the46_  @ElCuarentaYseis  @rebuildusatoday  @pilgrimalliance</br>
-
-			<p>We appreciate whatever kind of support you are able to make available to us in our quest to reach the general public.</br>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit veniam quisquam, rem illum dicta cumque, voluptate fugiat impedit beatae rerum ratione, voluptates nisi magni delectus ab, eaque atque iste. Molestias incidunt nemo veniam alias nam nisi distinctio optio error architecto odit! Illo dicta nulla fugiat distinctio laudantium, corrupti eum unde.
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit veniam quisquam, rem illum dicta cumque, voluptate fugiat impedit beatae rerum ratione, voluptates nisi magni delectus ab, eaque atque iste. Molestias incidunt nemo veniam alias nam nisi distinctio optio error architecto odit! Illo dicta nulla fugiat distinctio laudantium, corrupti eum unde.
 		</p>
 	</main> <!-- .cd-main-content -->
 	
