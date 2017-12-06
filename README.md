@@ -1,10 +1,10 @@
 # ReBuildUSAtodayHPAC
 
 <h2>A hybrid PAC with a plan to ReBuildUSAtoday with technology. 
-- Upgrade aging infrastructures nationwide. 
-- Create smart cities. 
-- Deploy ambience technology and ambience intelligence all over the United States.
-- And get every single American to embrace the new age of American energy.
+<br>Upgrade aging infrastructures nationwide.</br> 
+<br>Create smart cities.</br> 
+<br>Deploy ambience technology and ambience intelligence all over the United States.</br>
+<br>And get every single American to embrace the new age of American energy.</br>
 
 We are also actively recruiting candidates to fill 3078 county and congressional seats nationwide - USA, for the next mid-term election in 2018 and the general election in 2020.
 
