@@ -847,34 +847,3 @@ div.desc {
     padding: 15px;
     text-align: center;
 }
-</style>
-</head>
-<body>
-
-<div class="gallery">
-  <a target="_blank" href="41GsplICToL._SCLZZZZZZZ__.jpg">
-    <img src="41GsplICToL._SCLZZZZZZZ__.jpg" alt="img" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="415p4fYrQEL._SCLZZZZZZZ__.jpg">
-    <img src="415p4fYrQEL._SCLZZZZZZZ__.jpg" alt="img" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="lights.jpg">
-    <img src="lights.jpg" alt="Northern Lights" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="mountains.jpg">
-    <img src="mountains.jpg" alt="Mountains" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
